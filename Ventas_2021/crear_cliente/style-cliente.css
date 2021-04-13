@@ -1,0 +1,18 @@
+.footer {
+    font-size:small;
+    text-align: center;
+    color: black; 
+}
+
+.footer h1 {
+    font-size:x-large;
+    color:lightgoldenrodyellow;  
+    text-align: center;
+}
+
+.footer h2 {
+    font-size:medium;
+    text-align: center;
+    color: black;
+    font-size: 20px;; 
+}
